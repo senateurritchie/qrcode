@@ -16,23 +16,23 @@ YOUR_DOMAIN/QRCODE_PATH?options=....
 
 **eye**: Permet de choisir le style des yeux
 
-choix possibles "arrondi", "arrondi_rond", "bouclier", "coussin", "diamant", "etoile", "galbe", "grille", "morpion", "octogone", "oeil_droit", "oeil_gauche", "pointu", "ronds", "simple_rond", "tramis", "vague", "carre", "alien", "feuille", "rond", "rond_etoile", "rond_etoile_2", "rond_etoile_gaufre"
+Choix possibles "arrondi", "arrondi_rond", "bouclier", "coussin", "diamant", "etoile", "galbe", "grille", "morpion", "octogone", "oeil_droit", "oeil_gauche", "pointu", "ronds", "simple_rond", "tramis", "vague", "carre", "alien", "feuille", "rond", "rond_etoile", "rond_etoile_2", "rond_etoile_gaufre"
 
-**eye_bg**
+**eye_bg**: Permet de fixer la couleur générale des yeux
 
-**eye_tl_bg**
+**eye_tl_bg**: Permet de fixer la couleur de l'oeil HAUT-GAUCHE
 
-**eye_bl_bg**
+**eye_bl_bg**: Permet de fixer la couleur de l'oeil BAS-GAUCHE
 
-**eye_tr_bg**
+**eye_tr_bg**: Permet de fixer la couleur de l'oeil HAUT-DROIT
 
-**iris_bg**
+**iris_bg**: Permet de fixer la couleur générale des l'iris
 
-**iris_tl_bg**
+**iris_tl_bg**: Permet de fixer la couleur de l'iris HAUT-GAUCHE
 
-**iris_bl_bg**
+**iris_bl_bg**: Permet de fixer la couleur de l'iris BAS-GAUCHE
 
-**iris_tr_bg**
+**iris_tr_bg**: Permet de fixer la couleur de l'iris HAUT-DROIT
 
-**bg**
+**bg**: Permet de fixer la couleur de fond générale
 
