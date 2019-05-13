@@ -14,14 +14,14 @@ YOUR_DOMAIN/QRCODE_PATH?options=....
 ### Options
 **chl** pour ajouter les texte a encoder (**obligatoire**)
 
-**eye** 
-**eye_bg**
-**eye_tl_bg**
-**eye_bl_bg**
-**eye_tr_bg**
-**iris_bg**
-**iris_tl_bg**
-**iris_bl_bg**
-**iris_tr_bg**
-**bg**
+    **eye** 
+    **eye_bg**
+    **eye_tl_bg**
+    **eye_bl_bg**
+    **eye_tr_bg**
+    **iris_bg**
+    **iris_tl_bg**
+    **iris_bl_bg**
+    **iris_tr_bg**
+    **bg**
 
