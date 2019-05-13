@@ -2,7 +2,7 @@
 permet de personnaliser un QRCODE STANDARD
 
 ## Modification possible
-* les eyes (style et couleur)
+* les yeux (style et couleur)
 * l'iris (style et couleur)
 * les données (style et couleur)
 * couleur de fond générale
@@ -14,7 +14,44 @@ YOUR_DOMAIN/QRCODE_PATH?options=....
 ### Options
 **chl** pour ajouter les texte a encoder (**obligatoire**)
 
-    **eye** 
+    **eye** permet de choisir le style des yeux
+    choix possibles
+    
+    * arrondi
+    * arrondi_rond
+    * bouclier
+    * coussin
+    * diamant
+    * etoile
+    * galbe
+    * grille
+    * morpion
+    * octogone
+    * oeil_droit
+    * oeil_gauche
+    * pointu
+    * ronds
+    * simple_rond
+    * tramis
+    * vague
+    * carre
+    * alien
+    * feuille
+    * rond
+    * rond_etoile
+    * rond_etoile_2
+    * rond_etoile_gaufre
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     **eye_bg**
     **eye_tl_bg**
     **eye_bl_bg**
